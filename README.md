@@ -1,5 +1,5 @@
 # Instagram Data Analysis
-This project downloads Instagram post data for a selected brand and performs analysis on captions, hashtags, and likes.
+This project downloads Instagram post data for any public instagram page and performs analysis on captions, hashtags, and likes.
 
 ## Files
 - `download_instagram_data.py`: Script to download Instagram data.
