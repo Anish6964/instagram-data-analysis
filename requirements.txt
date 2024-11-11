@@ -1,0 +1,4 @@
+instaloader
+pandas
+matplotlib
+nltk
